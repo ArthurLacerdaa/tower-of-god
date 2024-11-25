@@ -17,9 +17,6 @@ Este site foi criado como uma página fan-site para *Tower of God*, com as segui
 - **Personagens Principais:**
   - Exibe informações sobre os personagens principais, como Bam, Rachel, Khun. Cada personagem tem uma breve descrição e imagem.
 
-- **Galeria de Imagens:**
-  - Uma seção com imagens e cenas do anime, permitindo aos fãs visualizarem momentos icônicos da série.
-
 - **Design Responsivo:**
   - O site é otimizado para dispositivos móveis, com um design que se adapta bem a diferentes tamanhos de tela, proporcionando uma boa experiência tanto em smartphones quanto em desktops.
 
@@ -36,5 +33,5 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - **HTML5**: Para estruturar o conteúdo da página.
 - **CSS3**: Para estilizar a página e torná-la visualmente atraente.
-- **JavaScript**: Para implementar interatividade básica, como a navegação no menu ou controle de galeria de imagens (se houver).
+- **JavaScript**: Para implementar interatividade básica, como a navegação no menu ou controle.
 - **Design Responsivo**: O site foi projetado para ser acessível em dispositivos móveis e desktops.
