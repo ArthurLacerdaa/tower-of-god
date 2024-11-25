@@ -15,7 +15,7 @@ Este site foi criado como uma página fan-site para *Tower of God*, com as segui
   - Link para assistir ao anime online, além de informações básicas sobre o enredo.
 
 - **Personagens Principais:**
-  - Exibe informações sobre os personagens principais, como Bam, Rachel, Khun, e outros. Cada personagem tem uma breve descrição e imagem.
+  - Exibe informações sobre os personagens principais, como Bam, Rachel, Khun. Cada personagem tem uma breve descrição e imagem.
 
 - **Galeria de Imagens:**
   - Uma seção com imagens e cenas do anime, permitindo aos fãs visualizarem momentos icônicos da série.
@@ -25,7 +25,7 @@ Este site foi criado como uma página fan-site para *Tower of God*, com as segui
 
 __Como Executar o Site__
 
-Para rodar o site em sua máquina basta abrir o link abaixo:
+Para rodar o site em sua máquina basta abrir o seguinte link:
 https://arthurlacerdaa.github.io/tower-of-god/index.html
 
 
