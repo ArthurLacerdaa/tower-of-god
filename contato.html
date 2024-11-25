@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato - Tower of God</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="tema-escuro">
+    <header>
+        <h1>Tower of God</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="personagens.html">Galeria</a></li>
+                <li><a href="episodios.html">Episódios Favoritos</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Botão de alternância de tema -->
+    <div class="theme-toggle">
+        <button id="toggle-theme">Alternar Tema</button>
+    </div>
+
+    <section id="contato">
+        <h2>Entre em Contato</h2>
+        <form id="form-contato">
+            <div class="input-group">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" required placeholder="Digite seu nome">
+            </div>
+
+            <div class="input-group">
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required placeholder="Digite seu e-mail">
+            </div>
+
+            <div class="input-group">
+                <label for="mensagem">Mensagem:</label>
+                <textarea id="mensagem" name="mensagem" rows="5" required placeholder="Digite sua mensagem"></textarea>
+            </div>
+
+            <button type="submit" class="submit-btn">Enviar</button>
+        </form>
+
+        <p id="mensagem-sucesso" style="display:none;">Mensagem enviada com sucesso!</p>
+    </section>
+    <footer>
+        <p class="footer-text">Desenvolvido por Arthur Lacerda</p>
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/arthurdlacerda/" target="_blank" title="LinkedIn">
+                <img src="linkedin.png" alt="LinkedIn" class="social-icon">
+            </a>
+            <a href="https://github.com/ArthurLacerdaa" target="_blank" title="GitHub">
+                <img src="git.png" alt="GitHub" class="social-icon">
+            </a>
+            <a href="https://www.instagram.com/arthurdlacerda/" target="_blank" title="Instagram">
+                <img src="insta.png" alt="Instagram" class="social-icon">
+            </a>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
